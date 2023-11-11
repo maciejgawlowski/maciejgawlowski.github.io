@@ -52,10 +52,21 @@
   "products.categories.outdoor-lighting": "Oświetlenie zewnętrzne",
   "products.categories.lighting-points": "Punkty świetlne",
 
+  "product-details.ask-about-product": "Zapytaj o produkt",
+  
   "product-details.download.title": "Do pobrania",
   "product-details.download.catalogue-card": "Karta katalogowa",
   "product-details.download.ce": "Deklaracja zgodności CE",
   "product-details.download.photometric-files": "Krzywe fotometryczne",
+
+  "product-details.installation.title": "Sposób montażu",
+  "product-details.light-source.title": "Źródło światła",
+  "product-details.colour-temperature.title": "Temperatura barwowa",
+  "product-details.optics.title": "Optyka",
+  "product-details.protection-rating.title": "Stopień ochrony",
+  "product-details.colours.title": "Kolory",
+
+  "product-details.photos.title": "Zdjęcia z realizacji",
 
   "download.catalogues.title": "Katalogi",
   "download.brochures.title": "Broszury",
